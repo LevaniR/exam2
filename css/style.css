@@ -1,4 +1,4 @@
-body {
+.body {
 	margin-left: 30px;
 }
 .header {
@@ -229,3 +229,11 @@ body {
 }
 .left-side{
     color: #808080;
+}
+.headercontacts {
+margin-left: 30px;
+display: flex;
+}
+.footercontacts {
+    margin-left: 30px
+}
