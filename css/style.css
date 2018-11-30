@@ -1,0 +1,231 @@
+body {
+	margin-left: 30px;
+}
+.header {
+    display: flex;
+}
+.logo {
+	width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 17px;
+}
+.menuul {
+    display: flex;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.menuli {
+	margin-left: 25px;
+}
+.menulicontact {
+    margin-left: 40px
+}
+.menua {
+    color: #3D58A6;
+    font-size: 18pt;
+    font-family: nino_mtavruli_bold;
+
+}
+.menua:hover{
+	color: #EE4036;
+}
+.date  {
+    width: 56px;
+    height: 56px;
+    margin-top: 36px;
+    background-color: #3D58A6;
+    font-family: BPG Nino Mtavruli;
+    color: #FFFFFF;
+    font-size: 48pt;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-right: 13px;
+}
+
+.date2 {
+	margin-top: 10px;
+    font-size: 22pt;
+    font-family: BPG Nino Mtavruli;
+    color: #3D58A6;
+}
+.title {
+	margin-top: 25px;
+    font-size: 20pt;
+    font-family: BPG Nino Mtavruli;
+}
+.img1 {
+	width: 270px;
+    margin-top: 30px;
+}
+.text {
+	font-family: bpg_ingiri_arial;
+    font-size: 16pt;
+    margin-top: 30px;
+}
+
+.contacts {
+	display: flex;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+.fb {
+	width: 14px;
+    margin-right: 35px;
+}
+
+.youtube {
+    width: 25px;
+    border-left: 2px solid #3D58A6;
+    padding-left: 35px;
+   }
+.img4 {
+    height: 460px;
+    width: 1170px;
+    margin-top: 60px;
+}
+.indexmiddlediv {
+    margin-left: 68px
+}
+.container {
+    position: relative;
+    font-family: nino_mtavruli_bold;
+}
+.containertextdiv {
+    padding-top: 90px;
+}
+.containertext1 {
+    position: absolute;
+    bottom: 370px;
+    left: 22px;
+    font-size: 23pt;
+    color: #E6E6E6;
+}
+.containertext2 {
+    position: absolute;
+    bottom: 330px;
+    left: 22px;
+    font-size: 23pt;
+    color: #E6E6E6;
+}
+.containertext3 {
+    position: absolute;
+    bottom: 295px;
+    left: 22px;
+    font-size: 23pt;
+    color: #E6E6E6;
+    font-family: RobotoBold;
+}
+.containertext4 {
+    position: absolute;
+    bottom: 255px;
+    left: 22px;
+    font-size: 23pt;
+    color: #E6E6E6;
+}
+.containertext5 {
+    position: absolute;
+    bottom: 220px;
+    left: 22px;
+    font-size: 23pt;
+    color: #E6E6E6;
+    font-family: RobotoBold;
+}
+.indexh2 {
+    font-family: RobotoRegular;
+    font-size: 24pt;
+    margin-top: 20px;
+
+}
+.img5img6 {
+    display: flex;
+    margin-top: 10px;
+}
+.finger {
+    margin-top: 30px;
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+}
+.img5img6title {
+    font-size: 22pt;
+    color: #3D58A6;
+    font-family: RobotoRegular;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.fingerimgandtext
+{
+    display: flex;
+    padding-top: 10px;
+}
+.img5 {
+    width: 100px;
+    height: 130px;
+    margin-left: 40px;
+    margin-top: 5px;
+
+}
+.img5img6text {
+    margin-left: 50px;
+    font-size: 17.5pt;
+    font-family: RobotoRegular;
+    width: 355px;
+    height: 125px;
+    margin-top: 10px;
+}
+.mobile {
+    margin-top: 30px;
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    margin-left: 30px;
+}
+.img6 {
+    width: 85px;
+    height: 128px;
+    margin-top: 12px;
+    margin-left: 60px;
+}
+.indexfooter {
+    margin-left: 68px;
+}
+
+
+
+
+.middlecontacts {
+    display: flex;
+    background-color: #E6E6E6;
+    height: 570px;
+}
+.mapouter {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.contact-section-div {
+    
+}
+.contact-section{
+    width: 300px;
+    margin-left: 45px;
+    margin-top: 55px;
+    
+}
+.contact-list{
+    margin-left: 25px;
+}
+.heading{
+    text-align: center;
+    font-family: "nino_mtavruli_bold";
+    font-size: 20px;
+    color: #3D58A6;
+}
+.left-side,
+.right-side{
+    font-family: "bpg_ingiri_arial";
+    font-size: 16px;
+}
+.left-side{
+    color: #808080;
